@@ -18,7 +18,7 @@ Cac ly thuyet da ung dung: Ham, con tro, cap phat dong, xu ly tep, kieu cau truc
 #define MAX_AGE 150
 #define PHONE_SIZE 15
 
-//thong tin ca nhan (px = Px)
+//thong tin ca nhan (px = patient)
 typedef struct pxIn4{
     char pxID[ID_SIZE];
     char name[50];

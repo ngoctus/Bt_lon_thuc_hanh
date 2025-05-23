@@ -1,5 +1,10 @@
-//BT LON
-//Pham Ngoc Tu - 6551071092 
+/*
+BT lon - thuc hanh
+Pham Ngoc Tu - 6551071092
+
+Mo ta: Chuong trinh quan ly benh nhan tam than
+Cac ly thuyet da ung dung: Ham, con tro, cap phat dong, xu ly tep, kieu cau truc, danh sach lien ket
+*/
 
 #include <stdio.h>
 #include <string.h>
